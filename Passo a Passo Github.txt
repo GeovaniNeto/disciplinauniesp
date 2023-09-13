@@ -1,0 +1,8 @@
+1ª: Criar um repositório no github
+2ª Copiar url do github
+3ª: git clone https://github.com/GeovaniNeto/disciplinauniesp.git (URL do repositório)
+4ª: Criar qualquer documento seguindo as orientações.
+5ª: Usar o comando LS
+6ª Usar o comando Git Status
+7ª Usar o comando Git Add .
+8ª Usar o comando Git Commit -m "Primeira atualização"
